@@ -1,0 +1,57 @@
+[
+    {
+        "id": 1,
+        "name": "BLOSSOM PLUSHIE",
+        "price": 500,
+        "image": "img/BlossomPlush.png"
+    },
+
+    {
+        "id": 2,
+        "name": "BUBBLES PLUSHIE",
+        "price": 500,
+        "image": "img/BubblesPlush.png"
+    },
+
+    {
+        "id": 3,
+        "name": "BUTTERCUP PLUSHIE",
+        "price": 500,
+        "image": "img/ButtercupPlush.png"
+    },
+
+    {
+        "id": 4,
+        "name": "MOJOJOJO PLUSHIE",
+        "price": 500,
+        "image": "img/MojojojoPlush.png"
+    },
+
+    {
+        "id": 5,
+        "name": "BLOSSOM PHONECASE",
+        "price": 300,
+        "image": "img/PhonecaseBlossom.png"
+    },
+
+    {
+        "id": 6,
+        "name": "BUBBLES PHONECASE",
+        "price": 300,
+        "image": "img/PhonecaseBubbles.png"
+    },
+
+    {
+        "id": 7,
+        "name": "BUTTERCUP PHONECASE",
+        "price": 300,
+        "image": "img/PhonecaseButtercup.png"
+    },
+
+    {
+        "id": 8,
+        "name": "BLOSSOM BUNDLE BAG",
+        "price": 1500,
+        "image": "img/BlossomBundleBag.png"
+    }
+]
